@@ -19,6 +19,10 @@ A passionate developer from Brazil
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NHFBarros&show_icons=true&theme=radical)
 
+## Activity Graph
+
+[![Nickolas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NHFBarros&theme=high-contrast)](https://github.com/NHFBarros/github-readme-activity-graph)
+
 ## Top Repositories
 
 [![Caixa Eletrônico](https://github-readme-stats.vercel.app/api/pin/?username=NHFBarros&repo=caixa-eletronico&theme=radical)](https://github.com/NHFBarros/caixa-eletronico)
