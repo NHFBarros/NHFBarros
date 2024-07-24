@@ -21,8 +21,8 @@ A passionate developer from Brazil
 
 ## Top Repositories
 
-[![Caixa Eletrônico](https://github-readme-stats.vercel.app/api/pin/?username=NHFBarros&repo=repository-1&theme=radical)](https://github.com/NHFBarros/caixa-eletronico)
-[![Tabuada](https://github-readme-stats.vercel.app/api/pin/?username=NHFBarros&repo=repository-2&theme=radical)](https://github.com/NHFBarros/Tabuada)
+[![Caixa Eletrônico](https://github-readme-stats.vercel.app/api/pin/?username=NHFBarros&repo=caixa-eletronico&theme=radical)](https://github.com/NHFBarros/caixa-eletronico)
+[![Tabuada](https://github-readme-stats.vercel.app/api/pin/?username=NHFBarros&repo=tabuada&theme=radical)](https://github.com/NHFBarros/Tabuada)
 
 ## Connect With Me
 
