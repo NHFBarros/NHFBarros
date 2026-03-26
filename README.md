@@ -1,7 +1,7 @@
-![Nickolas Henrique Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,50:1e293b,100:38bdf8&text=Nickolas%20Henrique&desc=Full-Stack%20Developer%20/%20Computer%20Science%20Student&section=header&reversal=false&textBg=false&animation=fadeIn&fontAlign=50&fontAlignY=48&descAlign=50&descAlignY=62&fontColor=ffffff&descColor=ffffff)
+![Nickolas Henrique Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,50:1e293b,100:38bdf8&text=Nickolas%20Henrique&desc=Full-Stack%20Developer%20/%20Software%20Engineer%20Student&section=header&reversal=false&textBg=false&animation=fadeIn&fontAlign=50&fontAlignY=48&descAlign=50&descAlignY=62&fontColor=ffffff&descColor=ffffff)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&label=PROFILE+VIEWS&color=38bdf8&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=NHFBarros&label=PROFILE+VIEWS&color=38bdf8&style=for-the-badge" />
 </p>
 
 ---
