@@ -78,7 +78,7 @@ Experiência com:
 <table>
   <tr>
     <td>
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=NHFBarrosB&show_icons=true&count_private=true&rank_icon=github&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&border_color=38bdf8&ring_color=38bdf8"/>
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=NHFBarros&show_icons=true&count_private=true&rank_icon=github&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&border_color=38bdf8&ring_color=38bdf8"/>
     </td>
     <td>
       <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NHFBarros&layout=compact&langs_count=8&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&border_color=38bdf8"/>
