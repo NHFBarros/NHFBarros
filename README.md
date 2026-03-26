@@ -1,55 +1,123 @@
-# Hello! I'm Nickolas 👋
+![Nickolas Henrique Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,50:1e293b,100:38bdf8&text=Nickolas%20Henrique&desc=Full-Stack%20Developer%20/%20Computer%20Science%20Student&section=header&reversal=false&textBg=false&animation=fadeIn&fontAlign=50&fontAlignY=48&descAlign=50&descAlignY=62&fontColor=ffffff&descColor=ffffff)
 
-A passionate developer from Brazil
-
-## About Me
-
-- 🌱 I’m learning web development and English.
-- 👯 I’m looking to collaborate on open-source projects and with the developer community.
-- 📫 How to reach me: [nickolasdesenvolvimento@gmail.com](mailto:nickolasdesenvolvimento@gmail.com)
-- ⚡ Fun fact: i love learn new things!
-
-## Technologies and Tools
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NHFBarros&show_icons=true&theme=radical)
-
-## Activity Graph
-
-[![Nickolas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NHFBarros&theme=high-contrast)](https://github.com/NHFBarros/github-readme-activity-graph)
-
-## Top Repositories
-
-[![Caixa Eletrônico](https://github-readme-stats.vercel.app/api/pin/?username=NHFBarros&repo=caixa-eletronico&theme=radical)](https://github.com/NHFBarros/caixa-eletronico)
-[![Tabuada](https://github-readme-stats.vercel.app/api/pin/?username=NHFBarros&repo=tabuada&theme=radical)](https://github.com/NHFBarros/Tabuada)
-
-## Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nickolas-henrique-1639bb295/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/NHFBarros)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/NickyZen17)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&label=PROFILE+VIEWS&color=38bdf8&style=for-the-badge" />
+</p>
 
 ---
 
-⭐️ Star my profile and projects if you like them!
+**JavaScript • TypeScript • Next.js • NestJS • Node.js • Prisma • SQL / NoSQL**
 
+Desenvolvedor focado em construir **aplicações web modernas, sistemas completos e soluções que automatizam problemas do mundo real**.
 
-<!--
-**NHFBarros/NHFBarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💻 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou **desenvolvedor Full-Stack e estudante de Engenharia de Software**, com interesse em desenvolvimento web, automação e construção de sistemas.
+
+Gosto de transformar **problemas repetitivos em soluções automatizadas**, criando aplicações úteis e eficientes.
+
+Experiência com:
+
+- Desenvolvimento de **aplicações web modernas**
+- Criação de **APIs e sistemas backend**
+- Desenvolvimento **full-stack com Next.js**
+- Modelagem de **bancos de dados**
+- Automação de **tarefas repetitivas**
+- Boas práticas de **organização e arquitetura de código**
+
+---
+
+## 🚀 O que estou fazendo atualmente
+
+- Estudando **lógica de programação e algoritmos**
+- Construindo **projetos full-stack**
+- Desenvolvendo **landing pages e sites para clientes**
+- Criando **automação para tarefas repetitivas**
+- Aprendendo **boas práticas de desenvolvimento profissional**
+
+---
+
+## 🛠 Tecnologias e Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,html,css,git,github" />
+</p>
+
+---
+
+## ⚙️ Frameworks e Bibliotecas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nestjs,tailwind,prisma" />
+</p>
+
+---
+
+## 🗄 Bancos de Dados
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+---
+
+## ☁️ Plataformas e Serviços
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase,githubactions" />
+</p>
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=NHFBarrosB&show_icons=true&count_private=true&rank_icon=github&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&border_color=38bdf8&ring_color=38bdf8"/>
+    </td>
+    <td>
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NHFBarros&layout=compact&langs_count=8&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&border_color=38bdf8"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=NHFBarros&theme=dark&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&stroke=38bdf8&border=38bdf8&sideLabels=ffffff&dates=ffffff&sideNums=ffffff&currStreakNum=ffffff"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=NHFBarros&theme=react-dark&bg_color=0f172a&color=ffffff&line=38bdf8&point=38bdf8&area=true&area_color=38bdf8&hide_border=true"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 📬 Contato
+
+<p align="center">
+  <a href="mailto:nickolasdesenvolvimento@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/nhfbarros">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/NHFBarros">
+    <img src="https://skillicons.dev/icons?i=vercel" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+<i>"Aprender, construir e melhorar um pouco todos os dias."</i>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1e293b,100:0f172a&height=120&section=footer&animation=twinkling"/>
