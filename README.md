@@ -86,20 +86,6 @@ Technologies used for building APIs and backend systems.
 - **MongoDB**
 - **Redis**
 
----
-
-## DevOps & Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,githubactions" />
-</p>
-
-- **Git / GitHub**
-- **Docker**
-- **GitHub Actions (CI/CD)**
-- **Vercel / Netlify**
-
----
 
 # 📂 Featured Projects
 
